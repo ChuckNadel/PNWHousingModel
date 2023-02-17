@@ -23,6 +23,7 @@ A dataframe of school districts was created, including the average grade of the 
 
 # Analysis of Price Distribution
 The distribution of price was analyzed, and the relationship between various columns and price was examined. This was followed by a review of the map for any notable patterns in price.
+![Price Distribution](https://github.com/SpaceMonkey0453/PNWHousingModel/blob/main/Visualizations/PriceFreq.png)
 
 # Conversion of Ordinal Categories to Integers
 Ordinal categories were converted to integers in order to be used in the modeling process. Additionally, inflation was adjusted based on the year sold for any price prior to 2022 to ensure consistent dollar values across records.
