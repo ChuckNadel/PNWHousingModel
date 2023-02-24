@@ -4,4 +4,4 @@
 __pycache__
 *.db
 *.pytest_cache
-scrapnotebook/
+scrapnotebooks/
